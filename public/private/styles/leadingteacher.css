@@ -1,0 +1,21 @@
+.leadingteacher {
+	
+	margin:0px;
+	padding:0px;
+	}
+.leadingteacher  img{
+	#display:block;
+	max-height:320px;
+	max-width:240px;
+	#margin:0px;
+	margin-right:20px;
+	padding:0px;
+	float:left;
+	}
+div.column2 p{
+	//float:left;
+	text-indent:2em;
+	#display:block;
+	margin-left:10px;
+	margin-top:10px;
+	}

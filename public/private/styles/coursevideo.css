@@ -1,0 +1,34 @@
+.videowin{
+	display:block;
+	width:800px;
+	height:420px;
+	padding:0;
+	margin-left:50px;
+	#background:#333;
+	}
+.videowin video{
+	margin:0px;
+	padding:0px;
+	width:800px;
+	height:420px;
+	}
+ol.videolist{
+	list-style-type:decimal;
+	font-size:120%;
+	padding-left:20px;
+	}
+ol.videolist li{
+	border-bottom-style:dotted;
+	border-bottom-color:#38F593;
+	border-bottom-width:1px;
+	}
+ol.videolist li p{
+
+	}
+//p.video_name{
+//	background:#F8FED1;
+//	
+//	border-bottom-style:dotted;
+//	border-bottom-color:#38F593;
+//	border-bottom-width:1px;
+//	}

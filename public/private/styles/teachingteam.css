@@ -1,0 +1,42 @@
+* {
+    border: 0px none;
+    margin: 0px;
+	
+}
+#gallery_col{
+	display: block;
+	width: 100%;
+	margin: 0px;
+	text-align: left;
+	background:#02ACEE;
+	}
+#gallery {
+    width: 1014px;
+    margin: 0px auto;
+    #background:#A7A7A7 no-repeat scroll right top transparent;
+	background:#22C0FD;
+	}
+.top {
+height: 360px;
+padding-top: 20px;
+padding-bottom: 20px;
+	}
+.roundabout-holder {
+    list-style: outside none none;
+    width: 714px;
+    height: 280px;
+    margin: 0px auto;
+}
+
+
+.all_content{
+	display: block;
+	float: left;
+	#width: 530px;
+	}
+/**************************content***********************************/
+div.floater p{
+	margin-top:10px;
+	margin-bottom:10px;
+	line-height:200%;
+	}
